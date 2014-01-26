@@ -1,0 +1,38 @@
+Cmp-Mod V01 Created by CvPcb (2013-jul-07)-stable date = Mon 27 Jan 2014 05:38:18 NZDT
+
+BeginCmp
+TimeStamp = /52E4F0C4;
+Reference = CN1;
+ValeurCmp = BNC;
+IdModule  = BNC-RIGHT-ANGLE-PLASTIC;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E50F02;
+Reference = J1;
+ValeurCmp = SIL4;
+IdModule  = SIL-4;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E539B0;
+Reference = J2;
+ValeurCmp = SIL4;
+IdModule  = SIL-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E4B00B;
+Reference = VR1;
+ValeurCmp = 10R;
+IdModule  = RV-BLUE-PLASTIC;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E4AFFE;
+Reference = VR2;
+ValeurCmp = 200R;
+IdModule  = RV-BLUE-PLASTIC;
+EndCmp
+
+EndListe
